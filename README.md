@@ -2,7 +2,7 @@
 
 In this activity, I use deep learning neural networks to forecast Bitcoin closing prices. The first model uses FNG ("Fear and Greed") indicators to predict prices; the second takes a window of several closing prices to predict future closing prices.
 
-## Prepare data for training and testing\
+## Prepare data for training and testing
 
 Use the starter code as a guide to create a Jupyter Notebook for each RNN. The starter code contains a function to create the window of time for the data in each dataset.
 
